@@ -1,15 +1,17 @@
-function setup() {
-  createCanvas(600, 600);
-   background("yellow");
-}
+Boas Vindas ao meu perfil!! 💛💛
 
+Meu nome é Viviane Luggeri
 
-function draw() {
-  
-  stroke ("blue");
-  fill ("blue");
-  
-  if (mouseIsPressed){
-    rect(mouseX, mouseY, 20, 35);
-  }
-}
+• Estou esudando na Alura
+
+• Estou me desenvolvendo na linguagem JavaScript
+
+• Utilizo este espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
+
+Você pode entrar em contato comigo em:
+
+viviane.luggeri.oliveira#escola.pr.gov.br
+
+@alurastartestudante
+
+![](https://media.tenor.com/AJgLG0lHQbgAAAAM/taylor-swift-cheers.gif)
